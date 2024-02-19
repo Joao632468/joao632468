@@ -13,3 +13,5 @@
  
 </div>
 
+### sobre mim:Olá me João marcos, tenho 20 anos, sou uma pessoa fascinada pela tecnologia e umas das coisas pela qual me interessei foi a área da programação. Recentemente me formei em Javascript, HTML e CSS.
+  Desejo uma oportunidade no mercado de trabalho para enfim, trabalhar com o que amo.
